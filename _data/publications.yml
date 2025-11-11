@@ -25,6 +25,7 @@ main:
     conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
     pdf: https://aclanthology.org/2023.emnlp-main.949.pdf
     code: https://github.com/xhwang22/HallucinationDetection
+    notes: Main Conference
     image: ./assets/img/teaser_example.png
 
   - title: "Aligning Large Language Models with Human Preferences through Representation Engineering"
