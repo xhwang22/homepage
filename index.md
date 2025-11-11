@@ -14,6 +14,8 @@ Phone/Wechat: (+86)17866553723. Please feel free to reach out to me.
 - **Large Language Model:** Retrieval-Augmented Generation, Human Alignment, Foundation Language Model, Reinforcement Learning
 - **Natural Language Processing:** Recommendation System
 
+{% include_relative _includes/internships.md %}
+
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -25,4 +27,4 @@ Phone/Wechat: (+86)17866553723. Please feel free to reach out to me.
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/internships.md %}
+
