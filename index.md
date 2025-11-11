@@ -24,3 +24,5 @@ Phone/Wechat: (+86)17866553723. Please feel free to reach out to me.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/internships.md %}
