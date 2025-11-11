@@ -7,7 +7,7 @@ main:
     pdf: https://aclanthology.org/2024.emnlp-main.981.pdf
     code: https://github.com/FudanDNN-NLP/RAG
     notes: Main Conference
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/RAG.png
 
   - title: "Chain-of-Model Learning for Language Model"
     authors: <strong>X Wang</strong>, K Song, X Tan, H Jiang,  C Zhang, Y Shen, C Lu, Z Li, Z Song, C Shan, Y Wang, K Ren, X Zheng, T Qin, Y Yang, D Li, L Qiu
@@ -17,7 +17,7 @@ main:
     code: https://github.com/microsoft/CoLM
     page: https://colm-lab.github.io/CoLM/
     notes: Poster
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/CoLM.png
 
   - title: "Hallucination Detection for Generative Large Language Models by Bayesian Sequential Estimation"
     authors: <strong>X Wang</strong>, Y Yan, L Huang, X Zheng, X Huang
@@ -26,7 +26,7 @@ main:
     pdf: https://aclanthology.org/2023.emnlp-main.949.pdf
     code: https://github.com/xhwang22/HallucinationDetection
     notes: Main Conference
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/hallucination.png
 
   - title: "Aligning Large Language Models with Human Preferences through Representation Engineering"
     authors: W Liu*, <strong>X Wang*</strong>, M Wu, T Li, C Lv, Z Ling, J Zhu, C Zhang, X Zheng, X Huang (*co-first author)
@@ -35,7 +35,7 @@ main:
     pdf: https://arxiv.org/pdf/2312.15997.pdf
     code: https://github.com/LiuAmber/RAHF
     notes: Main Conference
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/RAHF.png
 
   - title: "Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation"
     authors: H Xu*, <strong>X Wang*</strong>, C Lv, X Zheng (*co-first author)
@@ -44,4 +44,4 @@ main:
     pdf: https://arxiv.org/pdf/2508.05657
     code: https://github.com/xu1110/FNSCRS
     notes: Main Conference
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/recommendation.png
