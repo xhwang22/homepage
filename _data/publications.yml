@@ -65,9 +65,17 @@ main:
   - title: "Measure Children's Mindreading Ability with Machine Reading"
     authors: Y Yan, <strong>X Wang</strong>, X Zhou, X Zheng, X Huang
     conference_short: EMNLP2023
-    conference: Findings of the Association for Computational Linguistics: EMNLP 2023.
+    conference: Findings of the Association for Computational Linguistics, EMNLP 2023.
     pdf: https://aclanthology.org/2023.findings-emnlp.561.pdf
     code: https://github.com/manic-dolphin/emnlp2023-unifm-mindreading
     notes: Findings
     image: ./assets/img/mindreading.png
+
+  - title: "Measure Children's Mindreading Ability with Machine Reading"
+    authors: Y Yan, <strong>X Wang</strong>, X Zhou, X Zheng, X Huang
+    conference_short: EMNLP2023
+    conference: Findings of the Association for Computational Linguistics, EMNLP 2023.
+    pdf: https://aclanthology.org/2023.findings-emnlp.561.pdf
+    code: https://github.com/manic-dolphin/emnlp2023-unifm-mindreading
+    notes: Findings
     
