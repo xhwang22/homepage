@@ -5,8 +5,11 @@ layout: homepage
 ## About Me
 
 I’m currently a Ph.D. student (from fall 2022) at the School of Computer Science of Fudan University and a member of the FudanNLP Lab, supervised by A.P. Xiaoqing Zheng (郑骁庆) and Prof. Xuanjing Huang (黄萱菁).
+
 My research interests primarily focus on LLM Alignment, Safety, and Retrieval-Augmented Generation (RAG). I am currently working on post-training for Foundation Models, LLM Personalization, and Agentic Reinforcement Learning.
+
 I have led first-author research published at NeurIPS, ACL, and EMNLP, and have also contributed as a co-author to works appearing at ICML, ICLR, NAACL, COLING, AAAI, and the journal Expert Systems with Applications.
+
 Phone/Wechat: (+86)17866553723. Please feel free to reach out to me.
 
 ## Research Interests
