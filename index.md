@@ -16,7 +16,7 @@ Phone/Wechat: (+86)17866553723. Please feel free to reach out to me.
 
 - **Large Language Model:** Retrieval-Augmented Generation, Human Alignment, Foundation Language Model, Reinforcement Learning
 - **Natural Language Processing:** Recommendation System
-- 
+
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/internships.md %}
