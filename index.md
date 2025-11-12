@@ -18,13 +18,13 @@ Phone/Wechat: (+86)17866553723. Please feel free to reach out to me.
 
 ## News
 
-- **[Oct. 2024]** Our paper about Foundation Language Model was accepted by NeurIPS 2025.
-- **[Jun. 2025]** Two paper about LLM Recommendation/Roly-Play were accepted by ACL 2025 Main Conference/Findings.
-- **[May 2024]** Our paper about Dendritic Localized Learning was accepted by ICML 2025 Poster.
-- **[Dec. 2024]** Our paper about Representation Editing was accepted by COLING 2025 Main Conference.
-- **[Sept. 2024]** Two papers about Retrieval Augmented Generation(RAG)/Federated Learning were accepted by EMNLP 2024 Main Conference/Findings!
-- **[May 2024]** Two papers about Alignment/PEFT were accepted by ACL 2024 Main Conference.
-- **[Sept. 2023]** Two papers about Hallucination-Detection/Mindreading were accepted by EMNLP 2023 Main Conference/Findings.
+- **[Oct. 2024]** Our paper about Foundation Language Model was accepted by **NeurIPS 2025**!
+- **[Jun. 2025]** Two paper about LLM Recommendation/Roly-Play were accepted by **ACL 2025 Main Conference/Findings**!
+- **[May 2024]** Our paper about Dendritic Localized Learning was accepted by **ICML 2025 Poster**!
+- **[Dec. 2024]** Our paper about Representation Editing was accepted by **COLING 2025 Main Conference**!
+- **[Sept. 2024]** Two papers about Retrieval Augmented Generation(RAG)/Federated Learning were accepted by **EMNLP 2024 Main Conference/Findings**!
+- **[May 2024]** Two papers about Alignment/PEFT were accepted by **ACL 2024 Main Conference**!
+- **[Sept. 2023]** Two papers about Hallucination-Detection/Mindreading were accepted by **EMNLP 2023 Main Conference/Findings**!
 
 {% include_relative _includes/publications.md %}
 
